@@ -15,3 +15,12 @@ console.log(info);
 console.log(fullName.length);
 
 console.log(fullName.toUpperCase());
+
+const clothing = ['shoes', 'shirts', 'socks', 'sweaters'];
+console.log(clothing.length-1)
+
+let x = 123;
+//x = "Me";
+console.log(typeof x);
+
+
